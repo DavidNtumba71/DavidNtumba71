@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DavidNtumba71
+- 👀 I’m interested in building systems that solve problems
+- 🌱 I’m currently learning web development and frameworks
+- 💞️ I’m looking to collaborate on new ideas
+- 📫 How to reach me:
+      - 👔 LinkedIn: david-ntumba-83835814b
+      - 📧 Email: davidntumba710@gmail.com
