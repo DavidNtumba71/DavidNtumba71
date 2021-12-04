@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning web development and frameworks
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me:
-      - 👔 LinkedIn: david-ntumba-83835814b
-      - 📧 Email: davidntumba710@gmail.com
+-     - 👔 LinkedIn: https://www.linkedin.com/in/david-ntumba-83835814b/
+-     - 📧 Email: davidntumba710@gmail.com
